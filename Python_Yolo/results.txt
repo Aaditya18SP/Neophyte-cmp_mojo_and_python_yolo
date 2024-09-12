@@ -1,0 +1,18 @@
+##############################
+RUN STATS
+##############################
+Total Frames:100
+Average Cpu usage: 53.6%
+Elapsed time: 32.48594331741333 seconds
+FPS: 3.08
+
+
+##############################
+RUN STATS
+##############################
+Total Frames:5000
+Average Cpu usage: 54.975%
+Elapsed time: 1293.35830783844 seconds
+FPS: 3.87
+
+
